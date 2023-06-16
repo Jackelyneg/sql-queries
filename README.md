@@ -25,6 +25,8 @@
 
 -  Create and import data into seasonal stats table
 
+![Github](https://github.com/Jackelyneg/sql-queries/blob/main/Capture%20new.PNG)
+
     
       create table season_stats(  
       player_id INT,
