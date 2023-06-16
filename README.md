@@ -25,8 +25,6 @@
 
 -  Create and import data into seasonal stats table
 
-
-      
     
       create table season_stats(  
       player_id INT,
@@ -35,7 +33,8 @@
       age DEC,
       Tm VARCHAR,
       G VARCHAR,
-  TS_Percentage DEC,
+
+TS_Percentage DEC,
   FTr DEC,
   OWS DEC,
   DWS DEC,
