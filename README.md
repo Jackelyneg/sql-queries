@@ -9,8 +9,8 @@
   	
   
       create table players(
-  player_id int,
-  player_name varchar,
+      player_id int,
+      player_name varchar,
   height int,
   weight int,
   college varchar,
