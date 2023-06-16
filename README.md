@@ -2,7 +2,13 @@
 
 ### Query for creating a table and importing excel data
 
-create table players(
+
+####  Following Queries:
+
+- Creating two new tables with pg admin of NBA players and seasonal stats:
+  	
+  
+      create table players(
 	player_id int,
 	player_name varchar,
 	height int,
@@ -10,8 +16,8 @@ create table players(
 	college varchar,
 	born int,
 	birth_city varchar,
-	birth_state varchar
-)
+	birth_state varchar )
+
 
 select * from players
 
