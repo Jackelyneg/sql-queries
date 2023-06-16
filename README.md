@@ -7,7 +7,7 @@
 
 ####  Following Queries demonstrated: 
     - Query for creating a table and importing excel data
-    - Query for inner joins
+    - Example for inner joins
     - order by
     - Update a single row
     - Insert data into the table
