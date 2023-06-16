@@ -58,28 +58,28 @@
       select * from season_stats
 
 - Inner Joining both players and stats tables listing player demographics, their position and team
-![Github]()
+![Github](https://github.com/Jackelyneg/sql-queries/blob/main/inner%20join%201.PNG)
 
 
-select players.player_id,
-players.player_name,players.height,
-players.weight,players.college,
-players.born,season_stats.position,season_stats.tm
-from players
-inner join season_stats
-on players.player_id = season_stats.player_id
+      select players.player_id,
+      players.player_name,players.height,
+      players.weight,players.college,
+      players.born,season_stats.position,season_stats.tm
+      from players
+      inner join season_stats
+      on players.player_id = season_stats.player_id
 
 
 
 - Inner Joining season_stats with players to list player percentage stats
 
 
-select pl.player_name, s.player_id, pl.college, s.year,s.position,
-s.two_point_percentage,s.fg_percentage,
-s.ft_percentage,s.ts_percentage
-from season_stats as s
-inner join players as pl
-on s.player_id = pl.player_id
+      select pl.player_name, s.player_id, pl.college, s.year,s.position,
+      s.two_point_percentage,s.fg_percentage,
+      s.ft_percentage,s.ts_percentage
+      from season_stats as s
+      inner join players as pl
+      on s.player_id = pl.player_id
 
 
 
