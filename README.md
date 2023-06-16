@@ -1,11 +1,12 @@
-# sql-queries
+# SQL-queries
 
-### Query for creating a table and importing excel data
+##### The following queries are done in pg admin.
 
 
-####  Following Queries:
 
-- Creating two new tables with pg admin of NBA players and seasonal stats:
+
+####  Following Queries: Query for creating a table and importing excel data
+#----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------Creating two new tables with pg admin of NBA players and seasonal stats:
 - Importing data into players table
 
   
