@@ -5,10 +5,17 @@
 
 
 
-####  Following Queries: Query for creating a table and importing excel data
+####  Following Queries demonstrated: 
+    - Query for creating a table and importing excel data
+    - Query for inner joins
+    - order by
+    - Update a single row
+    - Insert data into the table
+    - delete data from columns 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
--Creating two new tables with pg admin of NBA players and seasonal stats:
+### - Creating two new tables with pg admin of NBA players and seasonal stats:
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - Importing data into players table
