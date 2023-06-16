@@ -15,4 +15,4 @@ create table players(
 
 select * from players
 
-![Github](<img width="683" alt="image" src="https://github.com/Jackelyneg/sql-queries/assets/81592631/128ecaa7-be2c-460d-a522-615b0172a8cf">)
+![Github]([<img width="683" alt="image" src="https://github.com/Jackelyneg/sql-queries/assets/81592631/128ecaa7-be2c-460d-a522-615b0172a8cf">](https://github.com/Jackelyneg/sql-queries/blob/main/Screenshot%202023-06-16%20144906.jpg)https://github.com/Jackelyneg/sql-queries/blob/main/Screenshot%202023-06-16%20144906.jpg)
