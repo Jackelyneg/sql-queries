@@ -58,6 +58,7 @@
       select * from season_stats
 
 - Inner Joining both players and stats tables listing player demographics, their position and team
+
 ![Github](https://github.com/Jackelyneg/sql-queries/blob/main/inner%20join%201.PNG)
 
 
@@ -72,6 +73,8 @@
 
 
 - Inner Joining season_stats with players to list player percentage stats
+
+![GitHub](https://github.com/Jackelyneg/sql-queries/blob/main/inner%20join%202.PNG)
 
 
       select pl.player_name, s.player_id, pl.college, s.year,s.position,
